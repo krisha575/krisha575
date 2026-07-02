@@ -83,16 +83,6 @@ Core application project with full-stack capabilities.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/krisha575">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=krisha575&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  </a>
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 <p align="center">
