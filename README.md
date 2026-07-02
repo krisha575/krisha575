@@ -16,7 +16,7 @@
 
 I'm a passionate **AI & Full Stack Developer** specializing in building intelligent applications and scalable systems.
 
-- �� Building **AI-powered applications** and **intelligent systems**
+- 🔭 Building **AI-powered applications** and **intelligent systems**
 - 🌱 Exploring **LLMs, RAG systems, and autonomous agents**
 - 💡 Passionate about **clean code** and **scalable architectures**
 - 📧 Reach me at: **krisha.trivedi5@gmail.com**
@@ -44,7 +44,7 @@ I'm a passionate **AI & Full Stack Developer** specializing in building intellig
 Intelligent expense tracking application with AI-powered insights and analytics.
 > *Tech Stack: Python • FastAPI • React • PostgreSQL*
 
-### 🧠 [AI Resume Screener](https://github.com/krisha575/bank-marketing-subscription-predictor)
+### 🧠 [Bank Marketing Prediction](https://github.com/krisha575/bank-marketing-subscription-predictor)
 Machine Learning project to predict bank marketing subscription using Logistic Regression and Random Forest with Streamlit deployment.
 > *Tech Stack: Python • Machine Learning • Streamlit*
 
@@ -67,6 +67,10 @@ Innovative application architecture for intelligent systems.
 ### 🚀 [Ravi Astro](https://github.com/krisha575/ravi-astro)
 Astrological insights and predictions platform.
 > *Tech Stack: Astro • React • Tailwind CSS*
+
+### 💻 [Project](https://github.com/krisha575/project)
+Core application project with full-stack capabilities.
+> *Tech Stack: Full Stack • Modern Web Tech*
 
 ---
 
